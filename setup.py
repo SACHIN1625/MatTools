@@ -5,7 +5,7 @@ with open("README.md", "r") as fh:
 
 setuptools.setup(
     name="MatTools", 
-    version="1.0.1",
+    version="1.0.0",
     author="Sachin_S",
     author_email="sachinshanmugam07@gmail.com",
     description="A package to simplify Matrix Operations",
